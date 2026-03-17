@@ -1,0 +1,71 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 20px #aaaaaa;
+}
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+div.top{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 35px;
+}
+.timeSection{
+    text-align: center;
+}
+#autor{
+    margin: 25px 35px;
+}
+.crypto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.cryptoTop{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+#icon{
+    display: flex;
+    height: 28px;
+    width: 28px;
+}
+#price{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#price > p{
+    margin: 5px; 
+}
+#weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+.weatherTop{
+    display: flex;
+    align-items: center;
+}
+.weatherTop > img{
+    height: 58px;
+}
