@@ -2,7 +2,7 @@
 
 ## 🧩 Description
 
-Dashboard App is a React-based web application that displays a structured and interactive interface for visualizing data and managing different UI components.
+Dashboard App is a web application that displays a structured and interactive interface for visualizing data and managing different UI components.
 
 The application serves as a dashboard template where users can explore organized information and interact with different sections of the layout.
 
@@ -12,7 +12,6 @@ https://dashboard-psi-sandy-55.vercel.app/
 
 ## 🚀 Technologies
 
-* React
 * JavaScript (ES6+)
 * CSS
 * Vercel (deployment)
@@ -28,7 +27,6 @@ https://dashboard-psi-sandy-55.vercel.app/
 ## 🧠 Key Concepts
 
 * Component-based architecture
-* State management with React hooks (if used)
 * Layout design and styling
 * Conditional rendering
 * Separation of logic and presentation
